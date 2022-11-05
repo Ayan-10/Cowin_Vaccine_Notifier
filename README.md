@@ -1,6 +1,6 @@
 <h1 align="center"> Vaccine Slot Alert App</h1>
 
-**Vaccine Slot Alert** Get notified if any vaccination slot is available for your selected area. App is totally free. The app will not show you any unnecessary notification. If vaccine will get available for your selected location only then it will show notification. **5k+ Downloads on Playstore**
+**Vaccine Slot Alert** Get notified if any vaccination slot is available for your selected area. App is totally free. The app will not show you any unnecessary notification. If vaccine will get available for your selected location only then it will show notification. **20k+ Downloads on Playstore**
 
 
 > Download the App from the Play Store by clicking on the icon below
